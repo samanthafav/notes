@@ -2,7 +2,7 @@ Soul Cycle Shop
 ======
 <br>
 
-## **General Functionality**
+## General Functionality
 [Fix] When navigating to Soul Shop via a specific product link, the user is redirected to the homepage instead of the specified product pages
 * [Expected-Behavior] When navigating to the Soul Shop via a specific product page, the site should direct me to the specified product page
 
@@ -17,17 +17,17 @@ Soul Cycle Shop
 
 <br>
 
-## **Shop Home**
+## Shop Home
 `tbd`
 
 <br>
 
-## **Search Results**
+## Search Results
 `tbd`
 
 <br>
 
-## **Product Pages**
+## Product Pages
 
 [Change] Change symbols in breadcrumbs to make it easier to identify them as breadcrumbs
 * Currently there is a ‘-’ between each breadcrumb item
